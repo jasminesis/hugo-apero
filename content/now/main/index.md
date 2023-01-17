@@ -11,6 +11,7 @@ intro: |
   I'm currently an applied statistics Master's student at NYU Steinhardt, looking for an internship in climate tech for Summer 2023. 
 
   Also learning to walk again, after ACL reconstruction surgery in Dec 2022.
+show_shared: false
 show_outro: false
 outro: |
   outro content
