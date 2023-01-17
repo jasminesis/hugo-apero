@@ -1,13 +1,13 @@
 baseURL: https://jasminesis.com/
 theme: hugo-apero
 languageCode: en
-title: jasminesis 
+title: jasminesis
 author: Jasmine Siswandjo
-copyright: ''
-googleAnalytics: ''
-disqusShortname: ''
+copyright: ""
+googleAnalytics: ""
+disqusShortname: ""
 metaDataFormat: yaml
-footnoteReturnLinkContents: '&#8617;'
+footnoteReturnLinkContents: "&#8617;"
 paginate: 5
 preserveTaxonomyNames: yes
 ignoreFiles:
@@ -30,33 +30,36 @@ markup:
     ordered: no
     startLevel: 2
 params:
-  custom_theme: ''
-  customheadingFontFamily: Fraunces
-  customtextFontFamily: Commissioner
+  custom_theme: ""
+  customheadingFontFamily: Bitter
+  customtextFontFamily: ""
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
   favicon: /img/favicon.ico
   headingFontFamily: sans-serif
-  logo: /img/blogophonic-mark-dark.png
+  logo: /img/darcy_icon_border.png
   mainSections:
-    - blog
+    # - blog
     - project
-    - talk
+    # - talk
   math:
     renderer: katex
   navallcaps: yes
-  orgLocal: Anywhere
-  orgName: RStudio
+  orgLocal: NYC
+  orgName: Jasmine Siswandjo
   sharing_image: /img/papillons.jpg
   social:
     - icon: github
       icon_pack: fab
       url: https://github.com/jasminesis
+    - icon: linkedin
+      icon_pack: fab
+      url: https://www.linkedin.com/in/jasminesis/
     - icon: facebook-square
       icon_pack: fab
       url: https://www.facebook.com/JasmineSys/
     # - icon: instagram
-      # icon_pack: fab
-      # url: https://www.instagram.com/explore/tags/apero/
+    # icon_pack: fab
+    # url: https://www.instagram.com/explore/tags/apero/
     # - icon: twitter
     #   icon_pack: fab
     #   url: https://twitter.com/hashtag/apéro
@@ -71,12 +74,12 @@ params:
     #   url: /blog/index.xml
   socialInFooter: yes
   socialInHeader: no
-  textFontFamily: sans-serif
+  textFontFamily: Avenir
   theme: sky
-  twitter: apreshill
+  # twitter: apreshill
   utterances:
     issue_term: pathname
-    label: 'comments :crystal_ball:'
+    label: "comments :crystal_ball:"
     repo_name: apreshill/apero
     theme: boxy-light
     use_utterances: yes
@@ -90,18 +93,14 @@ menu:
       title: License
       url: /license/
       weight: 1
-    - name: Contact
-      title: Contact form
-      url: /contact/
-      weight: 2
     - name: Contributors
       title: Contributors
       url: /contributors/
-      weight: 3
+      weight: 2
   header:
-    - name: About
-      title: About Blogophonic
-      url: /about/
+    - name: Now
+      title: Now
+      url: /now/
       weight: 1
     - name: Blog
       title: Blog
@@ -111,18 +110,18 @@ menu:
       title: Project Portfolio
       url: /project/
       weight: 3
-    - name: Talks
-      title: Talks
-      url: /talk/
-      weight: 4
-    - name: A collection
-      title: A collection
-      url: /collection/
-      weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
+    # - name: Talks
+    #   title: Talks
+    #   url: /talk/
+    #   weight: 4
+    # - name: A collection
+    #   title: A collection
+    #   url: /collection/
+    #   weight: 5
+    # - name: Elements
+    #   title: Element Page
+    #   url: /elements/
+    #   weight: 6
 privacy:
   disqus:
     disable: no

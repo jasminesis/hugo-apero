@@ -10,7 +10,7 @@ show_button_links: false
 layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
-sidebar: 
+sidebar:
   title: A Sidebar for Your Projects
   description: |
     Projects can be anything!
@@ -22,7 +22,7 @@ sidebar:
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all individual pages inside project/
-cascade:    
+cascade:
   show_author_byline: true
   show_post_date: true
   show_comments: false # see site config to choose Disqus or Utterances
