@@ -31,15 +31,15 @@ markup:
     startLevel: 2
 params:
   custom_theme: ""
-  customheadingFontFamily: Commissioner
-  customtextFontFamily: ""
-  description: Jasmine Siswandjo's personal blog.
+  customheadingFontFamily: Source Sans Pro
+  customtextFontFamily: Source Sans Pro
+  description: Jasmine Siswandjo's personal page.
   favicon: /img/darcy_icon.ico
   headingFontFamily: sans-serif
-  logo: /img/darcy_icon_border.png
+  logo: /img/darcy_2.png
   mainSections:
     # - blog
-    - project
+    # - project
     # - talk
   math:
     renderer: katex
