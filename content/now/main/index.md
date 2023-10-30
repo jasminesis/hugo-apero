@@ -6,11 +6,9 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  Updated on 17 Jan 2023 
-
-  I'm currently an applied statistics Master's student at NYU Steinhardt, looking for an internship in climate tech for Summer 2023. 
-
-  Also learning to walk again, after ACL reconstruction surgery in Dec 2022.
+  Updated on 30 Oct 2023 
+  
+  I'm currently a second-year Master's student in Applied Statistics for Social Science Research at NYU Steinhardt.
 show_shared: false
 show_outro: false
 outro: |
