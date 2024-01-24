@@ -5,61 +5,6 @@
     <link>https://jasminesis.com/categories/</link>
     <description>Recent content in Categories on jasminesis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jasminesis.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Theme Features</title>
-      <link>https://jasminesis.com/categories/theme-features/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasminesis.com/categories/theme-features/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evergreen</title>
-      <link>https://jasminesis.com/categories/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasminesis.com/categories/evergreen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>workshop</title>
-      <link>https://jasminesis.com/categories/workshop/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasminesis.com/categories/workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://jasminesis.com/categories/r/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasminesis.com/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>meetup</title>
-      <link>https://jasminesis.com/categories/meetup/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      
-      <guid>https://jasminesis.com/categories/meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>package</title>
-      <link>https://jasminesis.com/categories/package/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jasminesis.com/categories/package/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language><atom:link href="https://jasminesis.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
