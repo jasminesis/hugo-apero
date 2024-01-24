@@ -12,6 +12,9 @@
 .slide-in {
   animation: slide-from-right 1s forwards;
 }
+img {
+  border-radius: 15px;
+}
 
 // overridden by custom body link color
 // a {
